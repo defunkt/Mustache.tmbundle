@@ -12,11 +12,11 @@ By [Tekkub](http://github.com/tekkub).
 2. Open the zip
 3. Double click Mustache.tmbundle
 
+![Example](http://img.skitch.com/20100306-njn7x63w9ppg285y4by377wwhy.png)
+
 ### Git
 
     git clone git://github.com/defunkt/Mustache.tmbundle
     cd Mustache.tmbundle
     open Mustache.tmbundle
 
-
-![Example](http://img.skitch.com/20100306-njn7x63w9ppg285y4by377wwhy.png)
