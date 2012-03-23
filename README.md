@@ -16,8 +16,11 @@ By [Tekkub](http://github.com/tekkub).
 
 ### Git
 
-TM1
+####TM1
+	
     git clone git://github.com/defunkt/Mustache.tmbundle
     open Mustache.tmbundle
-TM2
+
+####TM2
+
     git clone git://github.com/defunkt/Mustache.tmbundle ~/Library/Application\ Support/TextMate/Managed/Bundles/Mustache.tmbundle
